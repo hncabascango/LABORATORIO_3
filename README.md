@@ -45,7 +45,7 @@ Comprender el método de análisis  de nodos y relacionarlos con la Ley de corri
 
 ### Resultados Simulados
 
-![image](https://user-images.githubusercontent.com/105606339/172495828-587fc7e0-aedc-4395-9f90-8b3e595af4d8.png)
+![image](https://user-images.githubusercontent.com/105606339/172509373-6ad760c5-cd9b-4c42-b033-86a6842e390d.png)
 
 ### Resultados Analíticos
 
