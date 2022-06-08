@@ -72,23 +72,28 @@ Resultados del cálculo de VA y VB
 
 Tabla de Resultados obtenido para el circuito
 
+![image](https://user-images.githubusercontent.com/105606339/172508018-698b11bc-acfc-4c1c-acf9-5f661a802c20.png)
+
 
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
 
 Resultados analíticos y resultados experimentales
 
-
+![image](https://user-images.githubusercontent.com/105606339/172508427-0c40b564-a203-4ddd-83ea-0b9878af05dd.png)
 
 Resultados analíticos y resultados simulados 
 
-![image](https://user-images.githubusercontent.com/105606339/172501947-ae445692-bb76-470c-98cf-36aaf49a19f2.png)
+![image](https://user-images.githubusercontent.com/105606339/172508474-f1deea8d-293f-4c89-8a3d-3658a2daa0cd.png)
+
 
 ## CONCLUSIONES
 
 - Al aplicar el método de análisis de nodos se obtuvo los valores de los voltajes del ciricuito.
 - Se identificó la relación y aplicación de la Ley de corrientes de Kirchhoff y la Ley de Ohm en el análisis de nodos.
 
+## BIBLIOGRAFÍA
 
+Floyd, TL (2007). Principios de circuitos electricos. México: EDUCACIÓN DE LA PERSONA
 
 
 
